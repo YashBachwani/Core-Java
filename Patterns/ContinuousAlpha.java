@@ -11,7 +11,7 @@ public class ContinuousAlpha {
                 ch++;
             }
 
-            System.out.println();
+            System.out.println()
         }
     }
 }
