@@ -11,7 +11,16 @@ public class Closet{
         int div1 = number / number1;
         int mull = div1 * number1;
 
-        System.out.println("The closet number to "+ number + " is "+mull);
+        
        
+        if(number % number1 == 0)
+        {
+            System.out.println("number is divisable");
+        }
+        else
+        {
+                System.out.println("The closet number to "+ number + " is "+mull);
+        }
+
     }
 }
