@@ -41,6 +41,9 @@ public class Closet{
 // This will only solve the test case 1
 
 // For solving both the cases we require this code
+
+
+
 import java.util.Scanner;
 
 public class Closet{
@@ -49,6 +52,8 @@ public class Closet{
 
 System.out.print("Enter n: ");
         int n = scanner.nextInt();
+        int m = scanner.nextInt();
+        int x = scanner.nextInt("")
         System.out.print("Enter m: ");
         int m = scanner.nextInt();
         
